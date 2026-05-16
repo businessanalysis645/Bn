@@ -1,0 +1,10 @@
+{
+  "name": "Red Sea Elite Diving",
+  "description": "Luxury diving experiences, snorkeling, yacht trips, and unforgettable sea adventures in Hurghada.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
