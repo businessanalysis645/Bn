@@ -53,7 +53,7 @@ export function WhyChooseUs() {
           <div className="relative h-[600px] hidden lg:block">
             <div className="absolute inset-0 rounded-[40px] overflow-hidden border border-white/10 glass-card p-2 bg-white/5">
                <img 
-                src="https://images.unsplash.com/photo-1596401057633-54a8fea8ce64?q=80&w=2070&auto=format&fit=crop" 
+                src="https://loremflickr.com/1200/800/yacht,interior?lock=17" 
                 alt="Luxury Yacht Interior" 
                 className="w-full h-full object-cover rounded-[32px] transition-transform duration-1000 hover:scale-105"
               />

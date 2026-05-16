@@ -3,10 +3,10 @@ import { motion, useScroll, useTransform } from 'motion/react';
 
 export function Gallery() {
   const images = [
-    "https://images.unsplash.com/photo-1629807469792-628d0eb8be34?q=80&w=2070&auto=format&fit=crop", // Turtle
-    "https://images.unsplash.com/photo-1544526226-d4568090fea4?q=80&w=2070&auto=format&fit=crop", // Scuba
-    "https://images.unsplash.com/photo-1608666579298-0c679a615ebb?q=80&w=2070&auto=format&fit=crop", // Dolphin
-    "https://images.unsplash.com/photo-1621323385202-0e359050d53c?q=80&w=1964&auto=format&fit=crop", // Yacht
+    "https://loremflickr.com/1200/800/sea,turtle?lock=16", // Turtle
+    "https://loremflickr.com/1200/800/scuba,diving?lock=10", // Scuba
+    "https://loremflickr.com/1200/800/dolphin,sea?lock=12", // Dolphin
+    "https://loremflickr.com/1200/800/luxury,yacht?lock=11", // Yacht
     "https://images.unsplash.com/photo-1582967788606-a171c1080cb0?q=80&w=1964&auto=format&fit=crop", // Reef
   ];
 

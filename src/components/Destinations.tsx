@@ -7,7 +7,7 @@ export function Destinations() {
     {
       name: "Orange Bay",
       desc: "The 'Egyptian Maldives', featuring shallow, crystal-clear turquoise waters and pristine white sands.",
-      img: "https://images.unsplash.com/photo-1577983637471-70e2f5b4de07?q=80&w=2070&auto=format&fit=crop" // Generic maldives/beach
+      img: "https://loremflickr.com/1200/800/beach,maldives?lock=14" // Generic maldives/beach
     },
     {
       name: "Giftun Island",
@@ -17,7 +17,7 @@ export function Destinations() {
     {
       name: "Abu Ramada",
       desc: "Known as 'The Aquarium', an incredibly flat reef bursting with dense marine life.",
-      img: "https://images.unsplash.com/photo-1581008678224-34537330776b?q=80&w=2070&auto=format&fit=crop"
+      img: "https://loremflickr.com/1200/800/coral,reef?lock=15"
     }
   ];
 

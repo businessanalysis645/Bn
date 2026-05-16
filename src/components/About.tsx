@@ -75,14 +75,14 @@ export function About() {
           >
             <div className="absolute top-0 right-0 w-3/4 h-4/5 rounded-[40px] overflow-hidden border border-white/10 glass-card p-2 bg-white/5">
               <img 
-                src="https://images.unsplash.com/photo-1544526226-d4568090fea4?q=80&w=2070&auto=format&fit=crop" 
+                src="https://loremflickr.com/1200/800/scuba,diving?lock=10" 
                 alt="Scuba diver exploring coral reef" 
                 className="w-full h-full object-cover rounded-[32px] transition-transform duration-1000 hover:scale-105"
               />
             </div>
             <div className="absolute bottom-0 left-0 w-1/2 h-1/2 rounded-[32px] overflow-hidden border border-white/10 z-10 glass-card p-2 bg-ocean">
               <img 
-                src="https://images.unsplash.com/photo-1621323385202-0e359050d53c?q=80&w=1964&auto=format&fit=crop" 
+                src="https://loremflickr.com/1200/800/luxury,yacht?lock=11" 
                 alt="Luxury yacht on the red sea" 
                 className="w-full h-full object-cover rounded-[24px] transition-transform duration-1000 hover:scale-105"
               />

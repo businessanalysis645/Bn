@@ -8,31 +8,31 @@ export function Services() {
       title: "Scuba Diving",
       description: "Explore world-class dive sites with elite guides. From reefs to wrecks.",
       icon: Anchor,
-      image: "https://images.unsplash.com/photo-1544526226-d4568090fea4?q=80&w=2070&auto=format&fit=crop"
+      image: "https://loremflickr.com/1200/800/scuba,diving?lock=10"
     },
     {
       title: "Private Yachts",
       description: "Charter our luxury vessels for an exclusive, tailored sea experience.",
       icon: Sailboat,
-      image: "https://images.unsplash.com/photo-1569263979104-865ab7cd8d13?q=80&w=2074&auto=format&fit=crop"
+      image: "https://images.unsplash.com/photo-1544551763-46a013bb70d5?q=80&w=2070&auto=format&fit=crop"
     },
     {
       title: "Snorkeling Trips",
       description: "Discover shallow coral gardens vibrant with marine life in crystal waters.",
       icon: Waves,
-      image: "https://images.unsplash.com/photo-1621323385202-0e359050d53c?q=80&w=1964&auto=format&fit=crop" /* Replace with better later */
+      image: "https://loremflickr.com/1200/800/luxury,yacht?lock=11" /* Replace with better later */
     },
     {
       title: "Dolphin Watching",
       description: "Respectful encounters with wild dolphins at Dolphin House reef.",
       icon: Fish,
-      image: "https://images.unsplash.com/photo-1608666579298-0c679a615ebb?q=80&w=2070&auto=format&fit=crop"
+      image: "https://loremflickr.com/1200/800/dolphin,sea?lock=12"
     },
     {
       title: "PADI Courses",
       description: "From beginner to divemaster, learn with certified highly skilled instructors.",
       icon: GraduationCap,
-      image: "https://images.unsplash.com/photo-1518413998822-0d674cccaeb2?q=80&w=2070&auto=format&fit=crop"
+      image: "https://loremflickr.com/1200/800/snorkeling?lock=13"
     },
     {
       title: "Underwater Photo",
